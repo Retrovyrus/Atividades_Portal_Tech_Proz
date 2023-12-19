@@ -1,0 +1,16 @@
+1 - Header
+2 - Main
+3 - NAV
+4 - img
+5 - h2
+6 - h1
+7 - P
+8 - A
+9 - Footer
+10 - Ul
+11 - Li
+12 - Form
+13 - Label
+14 - Input
+15 - Select
+16 - Button
